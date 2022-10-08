@@ -1,0 +1,110 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.banner {
+    background-image: url('../images/images/background.png');
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    top: 0;
+    left:0;
+}
+
+.search_input {
+    background-image: url('../images/images/search.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    /* background-size: 100% calc(100% - 256px ); */
+}
+
+.btn1 {
+    margin-left: 17px;
+    height: 35px;
+    padding: none !important;
+}
+
+.text {
+    margin-left: 13px;
+}
+
+h1 {
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Kalam', cursive;
+    color: #f8f6f1;
+}
+h3{
+    font-family: 'Nothing You Could Do', cursive;
+    font-weight: bold;
+}
+.discount{
+    font-family: 'Open Sans', sans-serif;
+}
+/* .plate1{
+    height: 500px;
+} */
+.pizzaSection{
+    background-image: url('../images/images/background.png');
+    background-repeat: no-repeat;
+    background-size: 100% calc(100% - 156px );
+    position: relative;
+    top: 0;
+    left:0;
+}
+.title{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.email_div{
+    width: 500px;
+    max-width: 100%;
+}
+.subscribe{
+    margin-left: -50px;
+}
+.footer_p_tag{
+    font-family: 'Open Sans', sans-serif;
+    margin-block-start: 0 !important;
+    margin-block-end: 0 !important;
+}
+.footer{
+    margin-top:200px;
+    margin-bottom: 250px
+}
+.img2{
+    position: absolute;
+    right: 0px; 
+    bottom: -70px;
+}
+.pizza_leave1{
+    position: absolute;
+    left: 0;
+    top: 10px;
+}
+.pizza_leave2{
+    position: absolute;
+    right: 0;
+    top: -150px;
+}
+.title_div{
+    position: relative;
+    top: 0;
+    left:0;
+}
+.title_leaves1{
+    position: absolute;
+    left: 0;
+    bottom: -60px;
+}
+.title_leaves2{
+    position: absolute;
+    right: -60px;
+    top: -60px;
+}
